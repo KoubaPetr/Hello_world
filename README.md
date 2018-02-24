@@ -1,2 +1,2 @@
 # Hello_world
-First github project
+Hello world in c++
